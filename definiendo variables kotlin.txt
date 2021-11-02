@@ -1,0 +1,22 @@
+fun main() {
+
+    val edad = 5 * 365//se da el valor a las variables
+    val nombre = "moises"//se da el valor a las variables
+
+    println("feliz cumple, ${nombre}!")// se define la variable a mostrar en mensaje, todo entre comillas 
+
+    // pastel!
+    println("")
+    println("   ,,,,,   ")
+    println("   |||||   ")
+    println(" =========")
+    println("@@@@@@@@@@@")
+    println("{~@~@~@~@~}")
+    println("@@@@@@@@@@@")
+
+    // espacio.
+    println("")
+
+    println("estas listo ${edad} eres viejo, ${nombre}!")
+    println("${edad} days old is the very best age to celebrate!")// se define la variable a mostrar en mensaje, todo entre comillas, si son mas de dos variables se separan por comas 
+}
